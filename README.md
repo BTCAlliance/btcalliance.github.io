@@ -25,8 +25,14 @@ open source accomplishments include Boost.Beast, NuDB, DSPFilters,
 and extensive contribution to Ripple. He is also known for authoring
 the BearShare file sharing application in 2001.
 
+
+### Secretary
+Toby Ganger
+
+actor, songwriter, teacher, coach, investor, bitcoin advocate, 
+and creator of "Welcome To The Blockchain" (The Bitcoin Song)
 ## Advisors
 
 # Activity
-
+* December 26, 2017 Toby Ganger joins as Secretary
 * December 26, 2017 Create Organization
